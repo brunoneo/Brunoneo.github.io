@@ -1,0 +1,75 @@
+/*CSS relatif à ma carte de visite*/
+.photo{
+    height: 120px;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    
+}
+ul{
+    
+    position: absolute;
+    right: 0px;
+    top: 40px;
+    
+    height: auto;
+    width: 800px;
+    font-size: 30px;
+}
+h1{
+    line-height: 10px;
+}
+body{
+    background: linear-gradient(grey,grey);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: cursive
+
+}
+
+td,th{border: 1px solid black;}
+table {border-collapse: collapse;}
+    
+    
+table{
+    background-color: silver;
+    width: 300px;
+}
+.color{
+    background-color:chartreuse;
+}
+.decalage{
+    text-align: center;
+    font-family: cursive
+    
+}
+.logo{
+    position: relative;
+    bottom: 0px;
+    left: 135px;
+    height: 20px;
+}
+.decal{
+   position: relative;
+   bottom: 43px;
+}
+.simpl{
+    color: red;
+    position: relative;
+    bottom: 78px;
+    left: 135px;
+
+}
+.outils{
+    position: absolute;
+    right:  20px;
+    height: 200px;
+    bottom: 20px;
+}
+.entraide{
+    position: absolute;
+    height: 200px;
+    margin-left: 500px;
+    bottom: 150px;
+}
